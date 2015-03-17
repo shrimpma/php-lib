@@ -1,14 +1,4 @@
 <?php
-/**
- * @copyright Copyright(c) 2011 jooyea.cn
- * @file paypal.php
- * @brief 贝宝(外卡)接口
- * @author chendeshan
- * @date 2011-01-27
- * @version 0.6
- * @note
- */
-
  /**
  * @class paypal
  * @brief 贝宝(外卡)接口

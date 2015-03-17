@@ -1,14 +1,5 @@
 <?php
 /**
- * @copyright (c) 2011 jooyea.cn
- * @file db_class.php
- * @brief 数据库抽象父类
- * @author chendeshan
- * @date 2010-12-3
- * @version 0.6
- */
-
-/**
 * @class IDB
 * @brief 数据库底层抽象类
 */

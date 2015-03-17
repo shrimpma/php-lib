@@ -1,12 +1,4 @@
 <?php
-/**
- * @copyright (c) 2011 jooyea.cn
- * @file dbmodel_class.php
- * @brief 数据处理
- * @author chendeshan
- * @date 2010-12-14
- * @version 0.6
- */
 
 /**
  * @class IModel
