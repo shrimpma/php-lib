@@ -103,7 +103,7 @@ return  array(
 		'note' => NULL,
 		'poundage' => 0.00,
 		'poundage_type' => 1,
-		'config_param' => '{"M_PartnerId":"2088611496883972","M_PartnerKey":"asfl3i2s32bbkbedfc1zpxivbvsmegbq","M_Email":"liudunming@zhagen.com"}',
+		'config_param' => '{"M_PartnerId":"","M_PartnerKey":"","M_Email":""}',
 		'client_type' => 1,
 	),
 	array( // row #7
