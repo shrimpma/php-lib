@@ -206,3 +206,10 @@ $res = $redis->sAdd($key , 'member2');
 var_dump($res);
 
 //ZSet
+
+$key = 'zset_data';
+$redis->zAdd($key, 1,'member1'); /* 1, 'key1' => {'member1'} */
+$redis->zAdd($key ,2,'member2'); /* 2, 'key1' => {'member1', 'member2', 'member3'}*/
+$res = $redis->zAdd($key , 3,'member5');
+
+var_dump($res);
